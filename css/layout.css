@@ -1,0 +1,35 @@
+/*done by christian smith with the help of Thomas*/
+html {
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+nav a {
+    line-height: 50px;
+    display: block;
+    background-color: #FF9375;
+}
+
+nav a:hover {
+    background-color: #FF474E;
+}
+
+.half {
+    width: 50%;
+    float: left;
+}
+
+footer {
+    clear: both;
+    background-color: #D0D0B3;
+    text-align: center;
+}
